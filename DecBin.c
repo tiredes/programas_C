@@ -2,7 +2,7 @@
  * decbin.c
  *
  *  Created on: 15/06/2014
- *      Author: rsalvo
+ *      Author: Rodrigo Salvo
  * 
  * Programa em C para realizar a conversão de números decimais em binário.
  /
