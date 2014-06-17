@@ -3,7 +3,8 @@
  *
  *  Created on: 15/06/2014
  *      Author: rsalvo
- * Programa para realiz ar a conversão de números decimais em binário.
+ * 
+ * Programa em C para realizar a conversão de números decimais em binário.
  /
 
 #include <stdio.h>
